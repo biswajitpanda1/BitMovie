@@ -1,4 +1,18 @@
+#MovieBit
+
+
+![image](https://github.com/user-attachments/assets/744eba6c-83e4-41b7-8a27-c5d03991ea32)
+
+ScreenShot
+
+
+
+
+
+
 # React + Vite
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
